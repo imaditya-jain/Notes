@@ -1,0 +1,1 @@
+# Complete Step-by-Step Guide: Deploying a Vite + Node.js (Express) App on Ubuntu 22.04/24.04 with Nginx Reverse Proxy, PM2, and Free SSL
