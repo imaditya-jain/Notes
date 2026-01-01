@@ -6,6 +6,7 @@ A collection of technical notes.
 A concise explanation of how React Fiber works, including reconciliation, scheduling, and incremental rendering.  
 👉 [Read the full note](./React%20Fiber%20Architecture.md)
 
+
 ## 🚀 Rendering Strategies in Next.js
 
 Before deploying a Next.js app, it’s important to understand **how your pages are rendered**, because it directly affects:
@@ -22,6 +23,7 @@ This note covers all core rendering strategies used in Next.js:
 
 👉 **Read the full explanation here:**  
 [Rendering Strategies in Next.js](./Rendering%20Strategies%20in%20Next.js.md)
+
 
 ## 🚀 Deployment Guide (Ubuntu VPS)
 
